@@ -5,10 +5,7 @@
 
 ### About me
 
-I'm a backend developer
+I'm a machinne learning engineer and SQL developer
 
-Python
-Django
-HTML
-CSS
-Javascript
+
+
