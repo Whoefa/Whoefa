@@ -6,6 +6,7 @@
 <h1>Welcome to my GitHub profile 🖥️ !!</h1>
 
 const backEndDeveloper = "Computer Science Degree";
+const studentEmanoel="student monitor Python at IFSUDESTE MG"
 
 function developerEmanoel(openToWork){
   if (openToWork===Oportunite){console.log("Pronto para estagiar 🤝");}
