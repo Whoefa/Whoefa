@@ -1,6 +1,6 @@
 ## Hi, I'm Emanoel Faria a Backend Developer
 <div align="center">
-  <a href="https://github.com/Whoefa">
+  <a href="https://github.com/Whoef">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Whoefa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whoefa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
