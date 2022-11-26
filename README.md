@@ -1,4 +1,4 @@
-## Hi, I'm Emanoel Faria a Backend Developer
+## Hi, I'm Emanoel Faria Developer
 <div align="center">
   <a href="https://github.com/Whoefa">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Whoefa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
